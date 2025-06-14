@@ -14,7 +14,6 @@ public class FrequencyOfCharacters {
     }
     public static void main(String[] args) {
         method("AAAbbbsccsBaC");
-        
     }
     
 }
