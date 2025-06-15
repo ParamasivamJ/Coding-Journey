@@ -16,3 +16,4 @@ This repository tracks the coding problems I solve daily.
 | 8  | Palindrome Check [solution](./String/Palindrome.java)        | —                                                                           | 2025-06-14  |
 | 9  | Maximum Average Subarray I [solution](./Array/MaxAverage.java) | [LeetCode #643](https://leetcode.com/problems/maximum-average-subarray-i/) | 2025-06-14  |
 | 10 | Minimum Size Subarray Sum [solution](./Array/MinSubArrayLen.java) | [LeetCode #209](https://leetcode.com/problems/minimum-size-subarray-sum/) | 2025-06-15  |
+| 11 | Range Sum Query - Immutable [solution](./Array/RangeSum.java) | [LeetCode #303](https://leetcode.com/problems/range-sum-query-immutable/) | 2025-06-15  |
