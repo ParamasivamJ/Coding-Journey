@@ -17,3 +17,7 @@ This repository tracks the coding problems I solve daily.
 | 9  | Maximum Average Subarray I [solution](./Array/MaxAverage.java) | [LeetCode #643](https://leetcode.com/problems/maximum-average-subarray-i/) | 2025-06-14  |
 | 10 | Minimum Size Subarray Sum [solution](./Array/MinSubArrayLen.java) | [LeetCode #209](https://leetcode.com/problems/minimum-size-subarray-sum/) | 2025-06-15  |
 | 11 | Range Sum Query - Immutable [solution](./Array/RangeSum.java) | [LeetCode #303](https://leetcode.com/problems/range-sum-query-immutable/) | 2025-06-15  |
+| 12 | Maximum Subarray Sum [solution](./Array/MaxSubarraySum.java) | [LeetCode #53](https://leetcode.com/problems/maximum-subarray/) | 2025-06-15 |
+| 13 | Maximum Product Subarray [solution](./Array/MaxProductSubarray.java) | [LeetCode #152](https://leetcode.com/problems/maximum-product-subarray/) | 2025-06-15 |
+| 14 | Rotate Array [solution](./Array/RotateArray.java) | [LeetCode #189](https://leetcode.com/problems/rotate-array/) | 2025-06-15 |
+
