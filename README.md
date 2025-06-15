@@ -15,3 +15,4 @@ This repository tracks the coding problems I solve daily.
 | 7  | Frequency of Characters | —                                                                           | 2025-06-14  |
 | 8  | Palindrome Check        | —                                                                           | 2025-06-14  |
 | 9  | Maximum Average Subarray I | [LeetCode #643](https://leetcode.com/problems/maximum-average-subarray-i/) | 2025-06-14  |
+| 10 | Minimum Size Subarray Sum | [LeetCode #209 ](https://leetcode.com/problems/minimum-size-subarray-sum/)| 2025-06-15 |
